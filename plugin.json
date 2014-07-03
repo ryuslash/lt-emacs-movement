@@ -1,0 +1,7 @@
+{
+  "name": "Emacs Movement",
+  "author": "Tom Willemse",
+  "version": "0.1.0",
+  "desc": "Movement commands like Emacs",
+  "behaviors": "emacs-movement.behaviors"
+}
